@@ -10,7 +10,7 @@
 Summary:       Simple monitor script for use during development of a node.js app
 Name:          %{?scl_prefix}nodejs-%{npm_name}
 Version:       1.8.1
-Release:       5.sc1%{?dist}
+Release:       5.sc2%{?dist}
 License:       MIT
 URL:           https://github.com/remy/nodemon
 Source0:       http://registry.npmjs.org/%{npm_name}/-/%{npm_name}-%{version}.tgz
